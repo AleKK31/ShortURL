@@ -2,5 +2,5 @@
 Serviço encurtador de URLs utilizando HTML, CSS e JavaScript(JS)
 API com rebrandly
 
-RODAR:
+Comando para rodar:
 Live Server
