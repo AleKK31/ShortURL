@@ -1,7 +1,5 @@
 # ShortURL
-Serviço encurtador de URLs utilizando HTML, CSS e JavaScript(JS)
-API com rebrandly
+Serviço encurtador de URLs utilizando: HTML, CSS, JavaScript e API - Rebrandly
 
-Comando para rodar:
-
-Live Server
+Deploy: https://alekk31.github.io/ShortURL/
+Comando para rodar: Live Server
