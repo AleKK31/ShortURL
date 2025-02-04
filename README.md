@@ -13,8 +13,7 @@ Este projeto é um encurtador de URL simples, que utiliza a API **Rebrandly** pa
 2. **Encurtar**: Clique no botão "Encurtar" para gerar a URL curta.
 3. **Copiar**: Clique no botão "Copiar" para copiar a URL curta para a área de transferência.
 
-
-### Passos para rodar o projeto
+## Passos para rodar o projeto
 
 1. Clone o repositório
 2. Instale a extensão "Live Server" por Ritwick Dey
